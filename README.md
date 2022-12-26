@@ -1,5 +1,5 @@
 
-# Gigabyte Aorus Pro DDR4 Hackintosh
+# Gigabyte B660M AORUS PRO AX DDR4 Hackintosh
 
   
 
