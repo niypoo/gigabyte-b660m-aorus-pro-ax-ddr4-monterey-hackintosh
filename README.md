@@ -18,8 +18,6 @@ based on [taruyato EFI](https://github.com/taruyato/b660m-aorus-pro-hackintosh) 
   
 | Type | Item |
 
-| ---- | ---- |
-
 | Motherboard | B660M Gigabyte Aorus Pro Ax DDR4 |
 
 | CPU | Intel Core i7-12700F @ 2.10 GHz, 25M Cache, up to 4.90 GHz
@@ -46,8 +44,6 @@ based on [taruyato EFI](https://github.com/taruyato/b660m-aorus-pro-hackintosh) 
   
 
 | Feature | Status |
-
-| ------------- | ------------- |
 
 | CPU Power Management | ✅ Working |
 
